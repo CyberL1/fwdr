@@ -1,0 +1,9 @@
+{
+  "domain": {
+    "url": "https://example.com",
+    "redirectAll": true // If you the redirect to work regardless of "paths" object, use this. Default: false
+  },
+  "paths": {
+    "path": "other_path"
+  }
+}
